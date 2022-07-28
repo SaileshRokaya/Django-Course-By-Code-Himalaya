@@ -1,1 +1,0 @@
-# Q.No 1) check whether a string is palindrome or not
