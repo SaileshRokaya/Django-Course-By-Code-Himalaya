@@ -1,0 +1,1 @@
+# Q.No 4) Count vowels in a string of input. [ Use list comprehension]
